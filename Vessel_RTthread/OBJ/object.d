@@ -1,0 +1,10 @@
+..\obj\object.o: ..\RT-Thread\3.1.3\src\object.c
+..\obj\object.o: ..\RT-Thread\3.1.3\include\rtthread.h
+..\obj\object.o: ..\USER\rtconfig.h
+..\obj\object.o: ..\RT-Thread\3.1.3\include\rtdebug.h
+..\obj\object.o: ..\RT-Thread\3.1.3\include\rtdef.h
+..\obj\object.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\object.o: ..\RT-Thread\3.1.3\include\rtservice.h
+..\obj\object.o: ..\RT-Thread\3.1.3\include\rtm.h
+..\obj\object.o: ..\RT-Thread\3.1.3\include\rtthread.h
+..\obj\object.o: ..\RT-Thread\3.1.3\include\rthw.h

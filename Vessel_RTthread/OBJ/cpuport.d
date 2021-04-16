@@ -1,0 +1,9 @@
+..\obj\cpuport.o: ..\RT-Thread\3.1.3\libcpu\arm\cortex-m3\cpuport.c
+..\obj\cpuport.o: ..\RT-Thread\3.1.3\include\rtthread.h
+..\obj\cpuport.o: ..\USER\rtconfig.h
+..\obj\cpuport.o: ..\RT-Thread\3.1.3\include\rtdebug.h
+..\obj\cpuport.o: ..\RT-Thread\3.1.3\include\rtdef.h
+..\obj\cpuport.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\cpuport.o: ..\RT-Thread\3.1.3\include\rtservice.h
+..\obj\cpuport.o: ..\RT-Thread\3.1.3\include\rtm.h
+..\obj\cpuport.o: ..\RT-Thread\3.1.3\include\rtthread.h
